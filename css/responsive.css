@@ -52,3 +52,39 @@
     }
     
 }
+@media(max-width:907px){
+    .contact-area,
+    .contact,
+    .sub-contact-area{
+        display: none;
+    }
+@media(max-width:846px){
+    footer{
+        display: none;
+    }
+}
+    
+}
+@media(max-width:746px){
+    .burger-bar,
+    .fa-bars{
+        display:block;
+        color: white;
+        margin-right: 50px;
+        font-size: 20px;
+        font-weight: bold;
+    }
+    .nav{
+        display: none;
+    }
+    
+}
+@media(max-width:543px){
+    .picture-block{
+        max-width: 400px;
+        width: 100%;
+    }
+    .pict{
+        width: 70%;
+    }
+}

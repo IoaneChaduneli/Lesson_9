@@ -399,3 +399,12 @@
     left: 280px;
     margin-top: 180px
 }
+/*  */
+.pict{
+    max-width: 352px;
+    width: 100%;
+}
+.burger-bar,
+.fa-bars{
+    display: none;
+}
